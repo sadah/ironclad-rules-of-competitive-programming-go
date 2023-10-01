@@ -1,0 +1,1 @@
+# ironclad-rules-of-competitive-programming-go

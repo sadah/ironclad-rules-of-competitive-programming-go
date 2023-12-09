@@ -2,12 +2,13 @@ package main
 
 import (
 	"bufio"
+	"fmt"
 	"os"
 	"strconv"
 )
 
 func solve(N int64) {
-
+	fmt.Println(N * N)
 }
 
 func main() {
